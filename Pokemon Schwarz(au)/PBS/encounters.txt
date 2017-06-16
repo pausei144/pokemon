@@ -50,7 +50,7 @@ HOOTHOOT,10,14
 RATTATA,15
 HOOTHOOT,14
 #########################
-021 # Route 2
+021 # Route 2 old
 25,10,10
 Land
 RATTATA,12,15

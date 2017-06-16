@@ -78,7 +78,7 @@ MapPosition=0,13,10
 # Cedolan Dept. Elevator
 MapPosition=0,13,10
 [021]
-# Route 2
+# Route 2 old
 MapSize=1,11
 Weather=Rain,50
 MapPosition=0,14,8
