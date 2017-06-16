@@ -44,7 +44,7 @@ MapPosition=0,13,12
 MapPosition=0,14,10
 HealingSpot=8,17,11
 [010]
-# Cedolan Gym
+# St. Nikolai Gym
 BattleBack=IndoorB
 MapPosition=0,13,10
 [011]

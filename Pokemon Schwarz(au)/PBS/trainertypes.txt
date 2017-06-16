@@ -72,4 +72,4 @@
 70,ELITEFOUR_Lance,Elite Four,100,elite,leaderwin,,Male,,
 71,CHAMPION,Champion,100,elite,,,Male,,
 72,RIVALE1,Andreas,5,,,Male,,
-73,LEADER_String,Gym Leader,100,gymleader,gymwin,,Male,,
+73,LEADER_String,Gym Leader,100,gymleader1,gymwin,,Male,,
