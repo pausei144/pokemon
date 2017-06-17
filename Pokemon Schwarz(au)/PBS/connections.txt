@@ -34,12 +34,10 @@
 33,North,9,22,South,0
 # Seibutendorf (42) - Route 1 (33)
 42,West,0,33,East,4
-<<<<<<< HEAD
 # St. Nikolai (77) - Route 3 (82)
 77,East,22,82,West,0
 # Route 3 (82) - Route 2 (43)
 82,0,0,43,116,37
-=======
 # Route 2 (43) - Seibutendorf (42)
 43,West,0,42,East,0
->>>>>>> 8cdbc19803aa9a084b24529c8b0a9ffd13eb33a7
+
