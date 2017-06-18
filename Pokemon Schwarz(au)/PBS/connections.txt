@@ -28,16 +28,13 @@
 41,North,0,40,South,0
 # Route 5 (41) - Route 6 (45)
 41,South,6,45,North,0
+# St. Nikolai (77) - Route 3 (82)
+77,East,22,82,West,0
 # Route 2 (43) - St. Nikolai (77)
 43,East,15,77,West,0
 # Route 1 (33) - Schwarzau (22)
 33,North,9,22,South,0
 # Seibutendorf (42) - Route 1 (33)
 42,West,0,33,East,4
-# St. Nikolai (77) - Route 3 (82)
-77,East,22,82,West,0
-# Route 3 (82) - Route 2 (43)
-82,0,0,43,116,37
 # Route 2 (43) - Seibutendorf (42)
 43,West,0,42,East,0
-
