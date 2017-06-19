@@ -59,6 +59,11 @@ Gregor
 1
 RATTATA,4
 #-------------------
+SCIENTIST
+George
+1
+MAGBY,4
+#-------------------
 CAMPER
 Jeff
 2
