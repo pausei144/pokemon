@@ -44,7 +44,7 @@ MapPosition=0,13,12
 MapPosition=0,14,10
 HealingSpot=8,17,11
 [010]
-# St. Nikolai Gym
+# Cedolan Gym
 BattleBack=Cave
 MapPosition=0,13,10
 [011]
@@ -78,7 +78,7 @@ MapPosition=0,13,10
 # Cedolan Dept. Elevator
 MapPosition=0,13,10
 [021]
-# Route 2 old
+# Route 2
 MapSize=1,11
 Weather=Rain,50
 MapPosition=0,14,8
@@ -304,3 +304,8 @@ Outdoor=true
 [084]
 # Feuer Gym
 BattleBack=EliteC
+[087]
+# Dark Gym
+BattleBack=EliteD
+DarkMap=true
+Outdoor=false
